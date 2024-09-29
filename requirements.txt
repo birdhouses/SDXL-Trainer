@@ -1,0 +1,4 @@
+diffusers
+huggingface_hub
+streamlit
+torch
